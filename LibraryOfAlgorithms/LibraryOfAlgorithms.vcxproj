@@ -135,6 +135,7 @@
     <ClInclude Include="include\Search.h" />
     <ClInclude Include="include\Sort.h" />
     <ClInclude Include="include\Timer.h" />
+    <ClInclude Include="include\Utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

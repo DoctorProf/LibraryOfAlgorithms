@@ -2,7 +2,7 @@
 
 namespace search
 {
-	// O(log2 n)
+	// O(log n)
 	template<typename Iterator, typename T>
 	Iterator binarySearch(Iterator begin, Iterator end, const T& value)
 	{
